@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ionebitzo.github.io/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/app/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/assets/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/css/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/data/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/includes/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/item/sitemap.html.gz
+Sitemap: https://ionebitzo.github.io/src/sitemap.html.gz
